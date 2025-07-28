@@ -1,3 +1,6 @@
-WE DUMB ASF
-harrison is a hoe
-ANNIE A BITCH
+Small Baking Non-profit Website
+
+Name not even decided tho
+
+setup:
+- none since this thing is empty
